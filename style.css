@@ -87,7 +87,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background: var(primary-color-dark);
+  background: var(--primary-color-darkprimary-color-dark);
 }
 footer {
   font-family: 'Roboto Mono', monospace;
